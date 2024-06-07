@@ -1,0 +1,50 @@
+[
+    {
+        "key": "date",
+        "label": "Date"
+    },
+    {
+        "key": "plate_number",
+        "label": "Plate Number"
+    },
+    {
+        "key": "vehicle",
+        "label": "Vehicle"
+    },
+    {
+        "key": "transaction_number",
+        "label": "Trx Number"
+    },
+    {
+        "key": "number_of_services",
+        "label": "Number Of Services"
+    },
+    {
+        "key": "number_of_parts",
+        "label": "Number Of Parts"
+    },
+    {
+        "key": "total_service_cost",
+        "label": "Service Cost"
+    },
+    {
+        "key": "total_parts_cost",
+        "label": "Parts Cost"
+    },
+    {
+        "key": "grand_total_cost",
+        "label": "Total Cost"
+    },
+    {
+        "key": "workshop_name",
+        "label": "Workshop Name"
+    },
+    {
+        "key": "workshop_address",
+        "label": "Workshop Address"
+    },
+    {
+        "key": "action",
+        "label": "Action"
+    }
+]

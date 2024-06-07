@@ -1,0 +1,30 @@
+[
+    {
+        "value": "BUS",
+        "label": "BUS"
+    },
+    {
+        "value": "BOAT",
+        "label": "BOAT"
+    },
+    {
+        "value": "CAR",
+        "label": "CAR"
+    },
+    {
+        "value": "MOTORCYCLE",
+        "label": "MOTORCYCLE"
+    },
+    {
+        "value": "PLANE",
+        "label": "PLANE"
+    },
+    {
+        "value": "SHIP",
+        "label": "SHIP"
+    },
+    {
+        "value": "TRUCK",
+        "label": "TRUCK"
+    }
+]

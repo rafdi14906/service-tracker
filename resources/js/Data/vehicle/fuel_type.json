@@ -1,0 +1,14 @@
+[
+    {
+        "value": "GASOLINE",
+        "label": "GASOLINE"
+    },
+    {
+        "value": "DIESEL",
+        "label": "DIESEL"
+    },
+    {
+        "value": "ELECTRIC",
+        "label": "ELECTRIC"
+    }
+]

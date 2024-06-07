@@ -1,0 +1,50 @@
+[
+    {
+        "key": "category",
+        "label": "Category"
+    },
+    {
+        "key": "plate_number",
+        "label": "Plate Number"
+    },
+    {
+        "key": "brand",
+        "label": "Brand"
+    },
+    {
+        "key": "seri",
+        "label": "Seri"
+    },
+    {
+        "key": "type",
+        "label": "Type"
+    },
+    {
+        "key": "cylinder_capacity",
+        "label": "CC"
+    },
+    {
+        "key": "year",
+        "label": "Year"
+    },
+    {
+        "key": "color",
+        "label": "Color"
+    },
+    {
+        "key": "fuel_type",
+        "label": "Fuel Type"
+    },
+    {
+        "key": "chassis_number",
+        "label": "Chassis Number"
+    },
+    {
+        "key": "engine_number",
+        "label": "Engine Number"
+    },
+    {
+        "key": "action",
+        "label": "Action"
+    }
+]
